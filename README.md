@@ -1,8 +1,11 @@
-#sobre min **Pamela Isadora**
-## *Stainwegvanhuy_The Hedgehog*
-### Cast no Shadow
+<!---comentários--->
+#sobre mim **IISAKL**
+# *kl*
+<---especial repositório do github--->
 -**olá, eu sou @pamela isadora**
 - O meu [e-mail] (pamela.barete@escola.pr.gov.br
+- -:+1: eu estou interessado em aprender novas linguagens de programação
+- -:+1:
 - 👋 Hi, I’m @iisakl
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
